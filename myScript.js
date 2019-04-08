@@ -21,7 +21,7 @@
                       src = "/image/pdf.jpg";
                   }
                   else if (wordExtentions.includes(extension)) {
-                      src = "/image/word1.ico";
+                      src = "/image/word.ico";
                   }
                   else if (jpgExtentions.includes(extension)) {
                       src = "/image/jpg.jpg";
